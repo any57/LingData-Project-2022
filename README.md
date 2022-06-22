@@ -2,8 +2,10 @@
 
 There are 3 files in this folder:
 
-(1) french_spoken_pluperfect.csv -- 
+(1) french_spoken_pluperfect_data.csv -- 
 
-(2) time_markers.csv -- 
+(2) french_spoken_pluperfect.csv -- 
 
-(3) pause_repeat.csv -- 
+(3) time_markers.csv -- 
+
+(4) pause_repeat.csv -- 
